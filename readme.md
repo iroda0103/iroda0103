@@ -36,42 +36,17 @@
 </p>
 
 
-<!-- 
 ## My Skills 💻
+- 👨‍💻 TypeScript, JavaScript, NodeJs
+- ⚙️ React
+- 👁️ SASS, CSS
+- 💽  SQL => PostgreSQL, NoSQL=>MongoDb
+
+## Contact
+- [t.me/IMuminova](https://t.me/IMuminova)
+- [linkidin](https://www.linkedin.com/in/iroda-muminova-30a381273/) on Linkidin
 
 
-
-<p align="left">
-<a href="https://github.com/iroda0103/iroda0103">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=80&design=candy&fill=ff69b4">
-</a>
-<a href="https://github.com/iroda0103/iroda0103">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=70&design=candy&fill=ff69b4">
-</a>
-<a href="https://github.com/iroda0103/iroda0103">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=50&design=candy&fill=ff69b4">
-</a>
-<a href="https://github.com/iroda0103/iroda0103">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=REACT&value=60&design=candy&fill=ff69b4">
-</a>
-<a href="https://github.com/iroda0103/iroda0103">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CPP&value=50&design=candy&fill=ff69b4">
-</a>
-<a href="https://github.com/iroda0103/iroda0103">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
-</a>
-</p>
--->
-
-
-<!--
-# Coming soon 🚀
-
-
-
-<p align="left">
-<a href="https://github.com/iroda0103/iroda0103">
-<img  src="https://readme-components.vercel.app/api?component=">
-</a>
-</p>
--->
+<div align="center">
+  <img align="center" src="https://github.com/iroda0103/iroda0103/blob/master/programmer_girl.gif" alt="footer" width="400" />
+</div>
