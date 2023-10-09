@@ -1,4 +1,6 @@
-# Hi there ,I am Iroda 
+# Hi there 👋
+
+## I'm Iroda, a 19 years old Web developer from Bukhara.
 
 <div align="center" style="display:flex;"><img src="https://github.com/iroda0103/iroda0103/blob/main/programmer_girl.gif" alt="footer" height="400" /></div>
 
