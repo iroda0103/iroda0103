@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<div align="center"><h3 align="left">I am Iroda</h3> <img aligin="right" src="https://github.com/iroda0103/iroda0103/blob/main/programmer_girl.gif" alt="footer" height="400" /></div>
+<div align="center" style="display:flex;"><h1 align="left">I am Iroda</h1> <img aligin="right" src="https://github.com/iroda0103/iroda0103/blob/main/programmer_girl.gif" alt="footer" height="400" /></div>
 
 ## Things I use on a daily basis
 
