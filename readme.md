@@ -36,11 +36,11 @@
 </p>
 
 
-## My Skills 💻
-- 👨‍💻 TypeScript, JavaScript, NodeJs
+<!-- ## My Skills 💻 -->
+<!-- - 👨‍💻 TypeScript, JavaScript, NodeJs
 - ⚙️ React
 - 👁️ SASS, CSS
-- 💽  SQL => PostgreSQL, NoSQL=>MongoDb
+- 💽  SQL => PostgreSQL, NoSQL=>MongoDb -->
 
 ## Contact
 - [t.me/IMuminova](https://t.me/IMuminova)
@@ -48,5 +48,5 @@
 
 
 <div align="center">
-  <img align="center" src="./programmer_girl.gif" alt="footer" width="400" />
+  <img align="center" src="https://github.com/iroda0103/iroda0103/blob/main/programmer_girl.gif" alt="footer" width="400" />
 </div>
