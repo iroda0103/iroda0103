@@ -43,10 +43,12 @@
 - 💽  SQL => PostgreSQL, NoSQL=>MongoDb -->
 
 ## Contact
-<div><a href="https://t.me/IMuminova"><img src="https://github.com/iroda0103/iroda0103/blob/main/telegram.png" alt="https://www.t.me/IMuminova" height="30">Telegram profile</a>
+
+<div><h3><a href="https://t.me/IMuminova"><img src="https://github.com/iroda0103/iroda0103/blob/main/telegram.png" alt="https://www.t.me/IMuminova" height="30">Telegram profile</a></h3>
 <br>
-<a href="https://www.linkedin.com/in/iroda-muminova-30a381273/"><img src="https://github.com/iroda0103/iroda0103/blob/main/linkedin.png"  alt="https://www.linkedin.com/in/iroda-muminova-30a381273" height="30" >Linkidin profile
-</a></div>
+<h3><a href="https://www.linkedin.com/in/iroda-muminova-30a381273/"><img src="https://github.com/iroda0103/iroda0103/blob/main/linkedin.png"  alt="https://www.linkedin.com/in/iroda-muminova-30a381273" height="30" >Linkidin profile
+</a></h3>
+</div>
 <br>
 <br>
 <br>
