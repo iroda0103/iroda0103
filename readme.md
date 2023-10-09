@@ -1,6 +1,6 @@
+# Hi there 👋
 
-
-# Hi there 👋 ,I'm Iroda <img align="right" src="https://github.com/iroda0103/iroda0103/blob/main/programmer_girl.gif" alt="footer" width="400" />
+<h1 align="center">I'm Iroda <img src="https://github.com/iroda0103/iroda0103/blob/main/programmer_girl.gif" alt="footer" width="400" /></h1>
 
 ## Things I use on a daily basis
 
@@ -20,7 +20,6 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
 
-
 <!-- <a href="https://github.com/iroda0103/iroda0103">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 </a> -->
@@ -35,7 +34,6 @@
 </a>
 </p>
 
-
 <!-- ## My Skills 💻 -->
 <!-- - 👨‍💻 TypeScript, JavaScript, NodeJs
 - ⚙️ React
@@ -43,10 +41,8 @@
 - 💽  SQL => PostgreSQL, NoSQL=>MongoDb -->
 
 ## Contact
+
 - [t.me/IMuminova](https://t.me/IMuminova)
 - [linkidin](https://www.linkedin.com/in/iroda-muminova-30a381273/) on Linkidin
 
 
-<div align="center">
-  <img align="center" src="https://github.com/iroda0103/iroda0103/blob/main/programmer_girl.gif" alt="footer" width="400" />
-</div>
