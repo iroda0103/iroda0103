@@ -1,6 +1,6 @@
-# Hi there ,I'm Iroda
+# Hi there 👋
 
-<div align="center"> <img src="https://github.com/iroda0103/iroda0103/blob/main/programmer_girl.gif" alt="footer" height="400" /></div>
+<div align="center"><h3 align="left">I am Iroda</h3> <img aligin="right" src="https://github.com/iroda0103/iroda0103/blob/main/programmer_girl.gif" alt="footer" height="400" /></div>
 
 ## Things I use on a daily basis
 
@@ -44,5 +44,3 @@
 
 - [t.me/IMuminova](https://t.me/IMuminova)
 - [linkidin](https://www.linkedin.com/in/iroda-muminova-30a381273/) on Linkidin
-
-
