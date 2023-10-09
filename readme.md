@@ -48,5 +48,5 @@
 
 
 <div align="center">
-  <img align="center" src="https://github.com/iroda0103/iroda0103/blob/master/programmer_girl.gif" alt="footer" width="400" />
+  <img align="center" src="./programmer_girl.gif" alt="footer" width="400" />
 </div>
