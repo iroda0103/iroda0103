@@ -44,7 +44,7 @@
 
 ## Contact
 
-- [t.me/IMuminova](https://t.me/IMuminova)
-- [linkidin](https://www.linkedin.com/in/iroda-muminova-30a381273/) on Linkidin
+<a href="https://t.me/IMuminova"><img src="https://github.com/iroda0103/iroda0103/blob/main/telegram.png"></a>
+<a href="https://www.linkedin.com/in/iroda-muminova-30a381273/"><img src="https://github.com/iroda0103/iroda0103/blob/main/linkedin.png"></a>
 
 <div align="center" style="display:flex;"><img src="https://github.com/iroda0103/iroda0103/blob/main/coding-girl-animation.webp" alt="footer" height="400" /></div>
